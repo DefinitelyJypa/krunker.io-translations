@@ -1,7 +1,7 @@
 # This will automatically add specific users to reviewers for whatever file(s) are being changed.
 
 # Default / all
-* @mty22
+* @mty22 @definitelyjypa
 
 # Japanese
 jp.js @mty22 @Hiro527 @KnockerOut
